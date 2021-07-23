@@ -8,3 +8,4 @@ Run dave.py from your terminal. Make sure the file is marked as executable, and 
 
 ## Bugs:
 * When resizing the terminal, sometimes the words will get cut off. There's no word wrapping. At least it shouldn't crash.
+* It WILL CRASH when resizing vertically. I'll fix it later.
